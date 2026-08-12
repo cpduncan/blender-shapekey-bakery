@@ -3,7 +3,9 @@
 A Blender script that bakes **Geometry Node animations** and **mesh deformations** directly into **Shape Keys**.
 
 Engines like Unity and Unreal cannot natively process Blender's procedural Geometry Nodes. 
-This script converts your procedural vertex positions frame by frame into Shape Keys so that you can export these procedural animations in your chosen engine. 
+This script converts your procedural vertex positions frame by frame into Shape Keys so that you can export these procedural animations in your chosen engine.
+
+<img width="640" height="480" alt="2026-08-11 22-58-48 (online-video-cutter com)" src="https://github.com/user-attachments/assets/874c2c1d-8691-46ff-87f4-bb9fddcbb117" />
 
 ---
 
